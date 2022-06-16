@@ -1,10 +1,18 @@
-# HW1-CodeRefactor-MA
+# Bantito
 
-Implementing the use of semantics and CSS into an already existing website to refactor the code.
+Webpage promoting myself, and making humorous cases for why visitors to the page should consider sending me money. Meant as a form of ironic humor and poking fun at the various internet money schemes happening in current times.
 
-# Resources
+# Technologies
 
-I used google and w3schools to get a better understanding of semantics and from there replaced all the div classes in the index.html document to more specific semantic elements such as "section" and "content". I also utilized the resources of my tutor to work on and better understand the assignment.
+<li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
+Github
+</li>
 
 # Actions
 
