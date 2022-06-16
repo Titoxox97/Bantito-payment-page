@@ -49,7 +49,7 @@ header nav ul {
 
 header nav ul li {
   display: inline-block;
-  margin-left: 25px;
+  margin-left: 150px;
 }
 
 a {
@@ -150,7 +150,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', end
   max-width: 150px;
 }
 
-.search-engine-optimization {
+.paypal {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -163,7 +163,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', end
   color: #ffffff;
 }
 
-.online-reputation-management {
+.venmo {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -176,7 +176,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', end
   color: #ffffff;
 }
 
-.social-media-marketing {
+.cash-app {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -189,29 +189,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', end
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+.paypal img {
   max-height: 200px;
 }
 
-.online-reputation-management img {
+.venmo img {
   max-height: 200px;
 }
 
-.social-media-marketing img {
+.cash-app img {
   max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.paypal h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.venmo h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.cash-app h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
