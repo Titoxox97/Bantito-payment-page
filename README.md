@@ -22,6 +22,10 @@ Github
 
 ![Screenshot 2022-06-15 224315](https://user-images.githubusercontent.com/87781987/173980287-3f331d6f-f461-4472-bc0b-bf953b777815.png)
 
+## Deployed Link
+
+ https://titoxox97.github.io/Bantito-payment-page/
+
 
 # Author
 Con gusto 🐙
